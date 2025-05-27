@@ -1,0 +1,1 @@
+基于python部署paddleocrv5的onnx模型PPOCRv5模型部署源码+onnx模型+使用说明下载地址:https://mbd.pub/o/bread/YZWTmp5xbA==
