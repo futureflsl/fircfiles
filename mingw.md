@@ -1,5 +1,5 @@
 以下是官方版本汇总，注意官方最新版本为8.1.0版本
-<table border = "1px" bgcolor = "white" bordercolor = "yellow" width = "300px" height = "175px">
+<table>
 <thead><tr><th>序号</th><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>mingw64-x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0.7z</td><td><a href="https://mbd.pub/o/bread/ZpyUkp9p">点我下载</a></td></tr>
@@ -40,7 +40,7 @@
 </table>
 
 以下是非官方编译版本，最新版本更新到14.2.0
-<table border = "1px" bgcolor = "white" bordercolor = "yellow" width = "300px" height = "175px">
+<table>
 <thead><tr><th>版本名称</th><th>对应GCC版本</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>mingw-x86_64-14.2.0-release-win32-seh-ucrt-rt_v12-rev0.7z</td><td>GCC14.2.0</td><td><a href="https://mbd.pub/o/bread/ZpyXlJxu">点我下载</a></td></tr>
