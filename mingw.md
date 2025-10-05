@@ -39,10 +39,20 @@
 </tbody>
 </table>
 
-以下是非官方编译版本，最新版本更新到14.2.0
+以下是非官方编译版本，最新版本更新到15.2.0
 <table>
 <thead><tr><th>版本名称</th><th>对应GCC版本</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev0.7z</td><td>GCC15.2.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5tuZg==">下载</a></td></tr>
+<tr><td>x86_64-15.2.0-release-win32-seh-msvcrt-rt_v13-rev0.7z</td><td>GCC15.2.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5tuZQ==">下载</a></td></tr>
+<tr><td>x86_64-15.2.0-release-posix-seh-ucrt-rt_v13-rev0.7z</td><td>GCC15.2.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5tuZA==">下载</a></td></tr>
+<tr><td>x86_64-15.2.0-release-posix-seh-msvcrt-rt_v13-rev0.7z</td><td>GCC15.2.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttbQ==">下载</a></td></tr>
+<tr><td>x86_64-15.2.0-release-mcf-seh-ucrt-rt_v13-rev0.7z</td><td>GCC15.2.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttbA==">下载</a></td></tr>
+<tr><td>x86_64-15.1.0-release-win32-seh-ucrt-rt_v12-rev0.7z</td><td>GCC15.1.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttaw==">下载</a></td></tr>
+<tr><td>x86_64-15.1.0-release-posix-seh-msvcrt-rt_v12-rev0.7z</td><td>GCC15.1.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttaA==">下载</a></td></tr>
+<tr><td>x86_64-15.1.0-release-win32-seh-msvcrt-rt_v12-rev0.7z</td><td>GCC15.1.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttag==">下载</a></td></tr>
+<tr><td>x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0.7z</td><td>GCC15.1.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttaQ==">下载</a></td></tr>
+<tr><td>x86_64-15.1.0-release-mcf-seh-ucrt-rt_v12-rev0.7z</td><td>GCC15.1.0</td><td><a href="https://mbd.pub/o/bread/YZWXl5ttZw==">下载</a></td></tr>
 <tr><td>mingw-x86_64-14.2.0-release-win32-seh-ucrt-rt_v12-rev0.7z</td><td>GCC14.2.0</td><td><a href="https://mbd.pub/o/bread/ZpyXlJxu">点我下载</a></td></tr>
 <tr><td>mingw-x86_64-14.2.0-release-win32-seh-msvcrt-rt_v12-rev0.7z</td><td>GCC14.2.0</td><td><a href="https://mbd.pub/o/bread/ZpyXlJxv">点我下载</a></td></tr>
 <tr><td>mingw-x86_64-14.2.0-release-posix-seh-msvcrt-rt_v12-rev0.7z</td><td>GCC14.2.0</td><td><a href="https://mbd.pub/o/bread/ZpyXlJxt">点我下载</a></td></tr>
